@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2yUcZUxswk=",
+  "success": true,
+  "projectFilePath": "/Users/niccolo/Dev/MSDBConverter-macOS/MSDBConverter-macOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/niccolo/.nuget/packages/magick.net-q8-x64/13.5.0/magick.net-q8-x64.13.5.0.nupkg.sha512",
+    "/Users/niccolo/.nuget/packages/magick.net.core/13.5.0/magick.net.core.13.5.0.nupkg.sha512",
+    "/Users/niccolo/.nuget/packages/metadataextractor/2.8.1/metadataextractor.2.8.1.nupkg.sha512",
+    "/Users/niccolo/.nuget/packages/microsoft.net.illink.tasks/8.0.7/microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "/Users/niccolo/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "/Users/niccolo/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "/Users/niccolo/.nuget/packages/system.drawing.common/8.0.1/system.drawing.common.8.0.1.nupkg.sha512",
+    "/Users/niccolo/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/niccolo/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "/Users/niccolo/.nuget/packages/xmpcore/6.1.10.1/xmpcore.6.1.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}

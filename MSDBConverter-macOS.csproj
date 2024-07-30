@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <PublishSingleFile>true</PublishSingleFile>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <DebugType>embedded</DebugType>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Magick.NET-Q8-x64" Version="13.5.0" />
+    <PackageReference Include="MetadataExtractor" Version="2.8.1" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.1" />
+  </ItemGroup>
+
+</Project>
