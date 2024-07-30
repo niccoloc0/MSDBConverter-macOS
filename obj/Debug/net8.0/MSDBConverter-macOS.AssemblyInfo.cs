@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MSDBConverter-macOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bd41a5789d1e1ca73e77ab990fe10cb8c6c7afe")]
 [assembly: System.Reflection.AssemblyProductAttribute("MSDBConverter-macOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MSDBConverter-macOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

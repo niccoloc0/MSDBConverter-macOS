@@ -1,0 +1,1 @@
+macOS version of [MSDBConverter](https://github.com/niccoloc0/MSDBConverter).
